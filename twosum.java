@@ -20,6 +20,7 @@ class twosum{
         System.out.println("Enter Elements");
         for(int i=0; i<n; i++){
             nums[i]=s.nextInt();
+            
         }
         System.out.println("Enter target value");
         int target = s.nextInt();
